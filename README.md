@@ -22,7 +22,7 @@ This project focuses on creating a **COVID-19 Vaccination Dashboard** using Powe
 ## Technologies Used
 
 - **Power BI**: For data visualization and dashboard creation.
-- **Data Source**: [Our World in Data](https://ourworldindata.org/covid-vaccinations) COVID-19 vaccination dataset, publicly available.
+- **Data Source**: https://github.com/Gagana-Raj/Covid-Dashboard/blob/main/country_vaccinations.csv.
 - **Power Query**: Used for cleaning and transforming raw data.
 - **DAX (Data Analysis Expressions)**: Applied for advanced calculations and dynamic data modeling.
 
@@ -38,7 +38,7 @@ The data used in this project is sourced from the publicly available dataset by 
 
 ## Installation & Setup
 
-1. **Download Data**: Obtain the COVID-19 vaccination data from the [Our World in Data GitHub repository](https://github.com/owid/covid-19-data/tree/master/public/data).
+1. **Download Data**:[covid datasets] https://github.com/Gagana-Raj/Covid-Dashboard/blob/main/country_vaccinations.csv
    
 2. **Power BI Setup**:
    - Open Power BI and load the dataset.
