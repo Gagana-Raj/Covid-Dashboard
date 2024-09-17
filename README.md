@@ -50,19 +50,8 @@ The data used in this project is sourced from the publicly available dataset by 
    - Utilize DAX to create custom metrics and calculations as needed.
 
 ## Dashboard Screenshots
+![1](https://github.com/user-attachments/assets/071e34e2-0ac4-4af4-b332-67f5b6a45b39)
 
-![Screenshot 2024-09-17 121121](https://github.com/user-attachments/assets/4b128d93-4ef9-4ad1-8ed5-412dce7b6969)
-
-
-## Future Enhancements
-
-- Adding regional-level vaccination data for a more detailed geographic analysis.
-- Including data on vaccine efficacy and its correlation with vaccination rates.
-- Incorporating demographic vaccination analysis where more specific data is available.
-
-## Contributing
-
-If you'd like to contribute to the project, feel free to submit a pull request. For significant changes, please open an issue first to discuss your idea.
 
 ## License
 
