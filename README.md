@@ -51,7 +51,8 @@ The data used in this project is sourced from the publicly available dataset by 
 
 ## Dashboard Screenshots
 
-_Add screenshots of the Power BI dashboard here._
+![Screenshot 2024-09-17 121121](https://github.com/user-attachments/assets/4b128d93-4ef9-4ad1-8ed5-412dce7b6969)
+
 
 ## Future Enhancements
 
@@ -68,5 +69,3 @@ If you'd like to contribute to the project, feel free to submit a pull request. 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This `README.md` covers the key details, and you can modify it to match your exact project implementation. Let me know if you need specific tweaks or additions!# Covid-Dashboard
